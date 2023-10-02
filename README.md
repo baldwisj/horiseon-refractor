@@ -25,3 +25,4 @@ Additionally, the website had improper HTML semantics. This new version has a sm
 >* The proper syntax to create a README file.
 >
 >* **Most Importantly**, I learned of the various ways to get the information I need to complete future coding tasks.
+
