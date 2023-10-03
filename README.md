@@ -26,3 +26,9 @@ Additionally, the website had improper HTML semantics. This new version has a sm
 >
 >* **Most Importantly**, I learned of the various ways to get the information I need to complete future coding tasks.
 
+## Screenshot
+![Full-Screenshot](https://github.com/baldwisj/horiseon-refractor/assets/143659996/ee8919b6-762a-4714-a78a-20fcaf7c0fac)
+
+
+## Links
+https://baldwisj.github.io/horiseon-refractor/
